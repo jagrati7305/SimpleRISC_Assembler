@@ -63,7 +63,7 @@ with st.sidebar:
     if st.button("Explanation Page",width="stretch",icon=":material/speaker_notes:"):
           st.session_state.page = "explanation"
     
-    st.link_button("View Source Code","https://github.com/jagrati7305",width="stretch",icon=":material/link_2:")
+    st.link_button("View Source Code","https://github.com/jagrati7305/SimpleRISC_Assembler",width="stretch",icon=":material/link_2:")
         
     st.markdown("""
     <div class = "team-name">
