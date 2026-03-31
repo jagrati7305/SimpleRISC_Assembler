@@ -50,4 +50,5 @@ SimpleRISC_Assembler/
 ├── requirements.txt        # Python dependencies
 ├── test_case.asm           # Sample Asm File
 └── README.md
+```
 ---
